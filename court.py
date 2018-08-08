@@ -2,7 +2,7 @@ import csv
 import plotly
 import plotly.plotly as py
 import plotly.graph_objs as go
-plotly.tools.set_credentials_file(username='slieb74', api_key='eNqli0rVtoX1YAUXDhcr')
+plotly.tools.set_credentials_file(username='USERNAME', api_key='API_KEY')
 
 #########COURT##########
 court_shapes = []

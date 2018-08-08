@@ -1,7 +1,7 @@
 import plotly
 import plotly.plotly as py
 import plotly.graph_objs as go
-plotly.tools.set_credentials_file(username='slieb74', api_key='eNqli0rVtoX1YAUXDhcr')
+plotly.tools.set_credentials_file(username='USERNAME', api_key='API_KEY')
 import pandas as pd
 from court import court_shapes
 from get_player_ids import *
